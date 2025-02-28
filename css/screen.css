@@ -37,6 +37,7 @@ fieldset {
     border-radius: 2em;
     line-height: 2em;
 	border-color: black;
+	border-width: 0.4em;
 }
 
 h1 {
