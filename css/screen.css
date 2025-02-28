@@ -12,7 +12,7 @@ body {
 }
 
 form {
-    font-size: 1.1em;	
+    font-size: 1.4em;	
     padding-top: 2em; 
 	display: flex;
 	flex-direction: column;
@@ -40,7 +40,7 @@ fieldset {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 2.5em;
   font-weight: 700;
   margin-top: 2em;
   color: black;
@@ -49,7 +49,7 @@ h1 {
 
 #submitbutton {
   color: black;
-  font-size: 1.2em;
+  font-size: 1em;
   padding: 1em 2em;
   border: none;
   border-radius: 2em;
