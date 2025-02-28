@@ -14,7 +14,10 @@ body {
 form {
     font-size: 1.1em;	
     padding-top: 2em; 
-    display: block;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
 }
 
 .form-group {
@@ -45,7 +48,7 @@ h1 {
 }
 
 #submitbutton {
-  color: white;
+  color: black;
   font-size: 1.2em;
   padding: 1em 2em;
   border: none;
