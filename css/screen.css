@@ -22,14 +22,14 @@ form {
 
 .form-group {
   margin-bottom: 1.5em;
-  text-align: left;
+  text-align: center;
 }
 
 label {
   font-size: 1em;
   display: block;
   margin-bottom: 0.5em;
-  align-text:center;
+  align-text: center;
 }
 
 fieldset {
