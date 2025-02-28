@@ -1,3 +1,7 @@
+html {
+  line-height: 1.2em;
+}
+
 body {	
 	background-color: #6887a1;
     font-family: Montserrat, Roboto, Arial, sans-serif;
@@ -14,6 +18,7 @@ fieldset {
     padding: 0.5em;
     border-radius: 1em;
     line-height: 2em;
+	border-color: black;
 }
 
 h1 {
