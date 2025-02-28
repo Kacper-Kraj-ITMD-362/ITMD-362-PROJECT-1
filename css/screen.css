@@ -1,5 +1,11 @@
 body {	
-
+	backgroun-color: #6887a1
     font-family: 'Montserrat', 'Roboto', Arial, sans-serif;
     text-align: center;
+}
+
+form {
+    font-size: 1.1em;
+    padding-top: 2em; 
+    display: block;
 }
