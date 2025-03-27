@@ -22,5 +22,13 @@ document.addEventListener("DOMContentLoaded", function() {
     field.addEventListener("mouseout", function() {
       field.style.backgroundColor = "";
     });
+	
+	 field.addEventListener("focus", function() {
+      field.style.backgroundColor = "#b3e5fc"; 
+    });
+
+    field.addEventListener("blur", function() {
+      field.style.backgroundColor = "";
+    });	
   });
 });
