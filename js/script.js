@@ -12,12 +12,12 @@ document.addEventListener("DOMContentLoaded", function() {
   var fields = document.querySelectorAll("input[type='text'], input[type='email']");
 
   fields.forEach(function(field) {
-    field.addEventListener("focus", function() {
-      field.style.backgroundColor = "#e0f7fa"; 
+    field.addEventListener("mouseover", function() {
+      field.style.backgroundColor = "#b3e5fc"; 
     });
 
-    field.addEventListener("blur", function() {
-      field.style.backgroundColor = "";
+    field.addEventListener("mouseout", function() {
+      field.style.backgroundColor = ""; 
     });
   });
 });
